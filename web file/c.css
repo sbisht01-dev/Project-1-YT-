@@ -1,0 +1,75 @@
+.req{
+    color:white;
+      background-color:black;
+      height:35px;
+      width:120px
+    }
+    .cart{
+      color: black;
+      background-color:rgb(255,230,20);
+      border:none;
+      border-radius:20px;
+      height:30px;
+      width:120px;
+      font-weight:bold;
+      cursor: pointer;
+    }
+    
+    .sign{
+      color:white;
+      background-color:rgb(46,164,79);
+      border:none;
+      border-radius:5px;
+      height:35px;
+      width:70px;
+      
+    }
+    
+    .boot{
+      background-color:rgb(121,82,179);
+      color:white;
+      border:none;
+      height:35px;
+      width:100px;
+      border-radius:5px
+    }
+    
+    .get{
+      background-color:
+      color:rgb(121,82,179);
+      border-width:thin;
+      border-color:rgb(121,82,179);
+      height:35px;
+      width:100px;
+      border-radius:5px
+    }
+
+    .d{
+        color:rgb(0,118,0);
+        font-weight: bold;
+    }
+
+    .buy{
+        color: black;
+        border:none;
+        border-radius:20px;
+        height:30px;
+        width:120px;
+        font-weight:bold;
+        background-color: rgb(255,164,28);
+        cursor: pointer;
+    }
+
+    .buy:hover{
+        background-color: white;
+        color: rgb(0, 0, 0);
+        box-shadow: 3px 3px 10px rgb(65, 65, 65);
+        transition: 0.15s;
+    }
+
+    .cart:hover{
+        background-color: white;
+        color: rgb(0, 0, 0);
+        box-shadow: 3px 3px 10px rgb(255, 206, 132);
+        transition: 0.15s;
+    }
